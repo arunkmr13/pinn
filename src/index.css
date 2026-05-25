@@ -6,6 +6,7 @@
   --card: #f8f8f3;
   --border: #e0e0d8;
   --text-primary: #111110;
+  --text-secondary: #4a4a42;
   --text-muted: #8a8a82;
   --primary: #ff5733;
 }
@@ -16,6 +17,7 @@ html.dark {
   --card: #222220;
   --border: #2e2e2c;
   --text-primary: #f0efe8;
+  --text-secondary: #8a8a82;
   --text-muted: #6a6a62;
   --primary: #ff5733;
 }
