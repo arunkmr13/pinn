@@ -159,4 +159,3 @@ feature/[name] → one branch per feature, merged into dev
 
 ---
 
-*Built with 📍 in Mangaluru, India*
